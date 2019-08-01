@@ -6,7 +6,7 @@ int main()
 	int i;
 
 for(i = 0; i <= MAX; i++){
-	printf("'ヮ'\n");
+	printf("・ω・\n");
 	}
 	return 0;
 }
