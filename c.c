@@ -6,7 +6,9 @@ int main()
 	int i;
 
 for(i = 0; i <= MAX; i++){
-	printf("・ω・\n");
+
+	printf("'Joiceはかわいらしい'\n");
+  
 	}
 	return 0;
 }
